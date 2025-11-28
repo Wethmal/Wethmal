@@ -8,43 +8,8 @@
 
 </div>
 
----
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-
-```typescript
-const wethmal = {
-    name: "Kisadu Wethmal",
-    title: "Software Engineering Undergraduate",
-    location: "🌍 Sri Lanka",
-    education: "🎓 BSc in Software Engineering",
-    
-    code: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-        frontend: ["React", "Next.js", "Vue.js", "TailwindCSS"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloud: ["AWS", "Docker", "Kubernetes"],
-    },
-    
-    currentFocus: [
-        "🔥 Building scalable cloud-native applications",
-        "🧠 Exploring AI/ML integrations",
-        "🌐 Contributing to open source",
-        "📱 Learning React Native & mobile development"
-    ],
-    
-    philosophy: "Code is poetry, bugs are just plot twists 🐛✨",
-    funFact: "I debug with console.log() and I'm not ashamed 😎",
-    workflow: "☕ Coffee → 💻 Code → 🐛 Debug → 🔁 Repeat"
-};
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ 𝐌𝐲 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
 
@@ -119,33 +84,6 @@ const wethmal = {
 
 ---
 
-## 🎯 𝐖𝐡𝐚𝐭 𝐈'𝐦 𝐔𝐩 𝐓𝐨
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-```yaml
-current_status:
-  role: "Software Engineering Student"
-  mode: "Full Stack Development & Cloud Architecture"
-  
-goals_2025:
-  - "🎓 Complete Software Engineering degree with distinction"
-  - "🚀 Contribute to 10+ major open source projects"
-  - "☁️ Master AWS & Kubernetes architectures"
-  - "🤝 Collaborate on innovative tech solutions"
-  - "📱 Launch production-ready mobile app"
-  - "🧠 Deep dive into AI/ML applications"
-
-daily_routine:
-  morning: "☕ Coffee + Code Review"
-  afternoon: "💻 Building & Debugging"
-  evening: "📚 Learning New Tech"
-  night: "🎮 Relax & Recharge"
-
-motto: "Turning caffeine into code since 2020 ☕→💻"
-```
-
----
 
 <div align="center">
 
