@@ -2,47 +2,60 @@
 
 # 👨‍💻 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐂𝐨𝐝𝐢𝐧𝐠 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞 🌌
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kisadu+Wethmal+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kisandu+Wethmal+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
+### 📍 Based in Kandana, Sri Lanka | 🎓 GPA: 3.82/4.00
+
 </div>
 
+## 👨‍💼 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
+Enthusiastic Software Engineering Undergraduate at Coventry University London with a strong foundation in full-stack development. I specialize in building scalable web and mobile applications using modern technologies. My experience spans across developing RESTful APIs, microservices architectures, and database-driven systems. 
 
+I'm passionate about solving real-world problems through clean, maintainable, and efficient code. Currently expanding my expertise in cloud technologies and machine learning while maintaining a strong academic record.
+
+---
 
 ## 🛠️ 𝐌𝐲 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
 
 <div align="center">
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,javascript,php,html,css" alt="Languages" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui,sass,redux" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,figma" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet" alt="Backend" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,androidstudio" alt="Mobile" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,docker,kubernetes" alt="Databases & Cloud" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite,azure" alt="Databases & Cloud" />
 </p>
 
 ### 🧰 Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,bash" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,postman,androidstudio" alt="Tools" />
 </p>
 
 </div>
@@ -84,7 +97,6 @@
 
 ---
 
-
 <div align="center">
 
 ## 💼 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
@@ -93,73 +105,124 @@
 
 </div>
 
-### 🌟 Full-Stack E-Commerce Platform
-`React` `Node.js` `MongoDB` `AWS` `Stripe`
+### 🏨 Altura Grand – Hotel Management System
+`Java Spring Boot` `React.js` `MySQL` `Microservices` `REST APIs`
 
-A modern, scalable e-commerce solution with real-time inventory management, secure payment integration, and responsive design. Features include advanced search, personalized recommendations, and admin analytics dashboard.
+A full-stack, microservices-based hotel management system designed for scalability and modularity. Built with enterprise-level architecture patterns and modern web technologies.
 
 **✨ Highlights:**
-- 🔐 JWT-based authentication & authorization
-- 💳 Integrated Stripe payment gateway
-- 📊 Real-time analytics dashboard
-- 🚀 Deployed on AWS with CI/CD pipeline
-- ⚡ 99.9% uptime with load balancing
+- 🏗️ Microservices architecture for scalability
+- 🔄 RESTful API integration
+- 💾 MySQL database management
+- ⚡ Modular and maintainable codebase
+- 🎨 User-friendly React.js interface
 
 ---
 
-### 🧠 AI-Powered Task Management System
-`Python` `TensorFlow` `FastAPI` `React` `PostgreSQL`
+### 💰 Statok – Personal Finance Management System
+`PHP` `Oracle Database` `SQLite` `PL/SQL` `HTML/CSS`
 
-An intelligent productivity platform that uses machine learning to predict task priorities, suggest optimal schedules, and provide actionable insights. Achieved 94% accuracy in priority prediction.
+A dual-database finance management system featuring offline and centralized storage with advanced database functionalities including triggers, stored procedures, and materialized views.
 
 **✨ Highlights:**
-- 🤖 Smart task prioritization using ML
-- 📈 Predictive analytics for productivity
-- 🔔 Intelligent notification system
-- 🌐 RESTful API with comprehensive documentation
-- 📱 Progressive Web App (PWA) support
+- 🔄 Dual-database architecture (SQLite + Oracle)
+- 📊 Advanced PL/SQL triggers and stored procedures
+- 🔐 Secure financial data handling
+- 📈 Analytics and reporting dashboards
+- ⚡ Real-time data synchronization with conflict resolution
 
 ---
 
-### 🎮 Real-Time Multiplayer Game Platform
-`TypeScript` `Socket.io` `Next.js` `Redis` `Docker`
+### 🍕 Pizza Mania – Android Mobile Application
+`Android Studio (Java)` `SQLite` `Firebase` `Google Maps API` `REST APIs`
 
-A low-latency multiplayer gaming platform supporting concurrent users with real-time state synchronization. Implements custom game engine and matchmaking algorithms.
+A feature-rich restaurant mobile application with real-time order tracking, live chat, and comprehensive management features for both customers and restaurant staff.
 
 **✨ Highlights:**
-- ⚡ Sub-50ms latency for real-time gameplay
-- 🎯 Advanced matchmaking algorithm
-- 💬 In-game chat with profanity filter
-- 🏆 Leaderboard & achievement system
-- 🐳 Containerized microservices architecture
+- 📱 Native Android development in Java
+- 🗺️ Google Maps integration for branch routing
+- 💬 Real-time chat functionality
+- 🔔 Live order tracking system
+- 🔥 Firebase backend integration
+- 📊 Restaurant-side order and menu management
+
+---
+
+### 🍵 Nature Ceylon – eCommerce Website
+`HTML5` `CSS` `Bootstrap` `PHP` `MySQL`
+
+A comprehensive tea outlet e-commerce platform with customer and admin interfaces, featuring online shopping, inventory management, and order processing capabilities.
+
+**✨ Highlights:**
+- 🛒 Full e-commerce functionality
+- 👨‍💼 Admin panel for inventory management
+- 📦 Order processing and tracking
+- 🎨 Responsive Bootstrap design
+- 💾 MySQL database integration
+
+---
+
+### 💼 Vertix – Desktop ERP System
+`C#` `.NET` `MS SQL Server` `Crystal Reports`
+
+A Windows desktop ERP application for comprehensive business management including employee, sales, inventory, and reporting modules with analytical capabilities.
+
+**✨ Highlights:**
+- 🖥️ Windows Forms desktop application
+- 📊 Crystal Reports integration
+- 💾 MS SQL Server database
+- 📈 Real-time business analytics
+- 🔄 Automated business process workflows
 
 ---
 
 <div align="center">
 
-## 📅 𝐖𝐞𝐞𝐤𝐥𝐲 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
+## 📚 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 
 </div>
 
-```text
-💼 This Week's Development Time
+### 🎓 BSc (Hons) in Software Engineering
+**Coventry University London** | 2023 - Present  
+📊 Current GPA: **3.82/4.00**
 
-TypeScript     12 hrs 15 mins  ████████████░░░░░░░░░  55.2%
-Python          5 hrs 22 mins  ██████░░░░░░░░░░░░░░░  24.3%
-JavaScript      3 hrs  8 mins  ███░░░░░░░░░░░░░░░░░░  14.2%
-CSS             1 hr   5 mins  █░░░░░░░░░░░░░░░░░░░░   4.9%
-JSON               18 mins  ░░░░░░░░░░░░░░░░░░░░░   1.4%
+### 🎓 Advanced Diploma in Software Engineering
+**National Institute of Business Management** | 2022 - 2024  
+📊 GPA: **3.64/4.00**
 
-🔥 Most Used Languages
+### 🎓 Assured Diploma in Information Technology
+**Esoft Metro Campus** | 2020 - 2021  
+📊 GPA: **3.50/4.00**
 
-1. TypeScript      ████████████████░░  78.5%
-2. Python          ██████████░░░░░░░░  45.2%
-3. JavaScript      ████████░░░░░░░░░░  38.7%
-4. Java            ████░░░░░░░░░░░░░░  18.3%
-5. C++             ██░░░░░░░░░░░░░░░░   9.1%
-```
+---
+
+<div align="center">
+
+## 🏆 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐂𝐨𝐮𝐫𝐬𝐞𝐬
+
+</div>
+
+- 📜 **Oracle Data Platform 2025 Certified Foundations Associate** - Oracle
+- 🤖 **Machine Learning Terminology and Process** - AWS
+- 🌐 **Web Design for Beginners** - University of Moratuwa
+- ☁️ **Introduction to Microsoft Azure** - Microsoft
+
+---
+
+<div align="center">
+
+## 💼 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+
+</div>
+
+### 👨‍🏫 ICT Teacher | Self-Employed
+**2023 - 2025**
+
+- Provided IT theory and programming lessons to school students
+- Designed personalized exercises and mini-projects
+- Developed strong communication, mentoring, and problem-solving skills
 
 ---
 
@@ -172,20 +235,17 @@ JSON               18 mins  ░░░░░░░░░░░░░░░░░�
 ### 💬 Let's collaborate and build something extraordinary together!
 
 <p align="center">
-  <a href="https://linkedin.com/in/wethmal">
+  <a href="https://linkedin.com/in/kisandu-wethmal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/wethmal">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:wethmal@example.com">
+  <a href="mailto:kisanduofficially@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wethmal.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Wethmal">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+94769930678">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
 
@@ -227,7 +287,7 @@ JSON               18 mins  ░░░░░░░░░░░░░░░░░�
 
 ### 🎵 *"Code. Coffee. Repeat."* ☕💻🔁
 
-### 💙 *"The best way to predict the future is to create it"*
+### 💙 *"Building scalable solutions, one commit at a time"*
 
 <img src="https://komarev.com/ghpvc/?username=Wethmal&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
 
