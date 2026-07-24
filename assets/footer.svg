@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00F5FF"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#FF2BD6"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>.wave{animation:shift 8s ease-in-out infinite alternate}.dot{animation:p 2.8s ease-in-out infinite}@keyframes shift{to{transform:translateX(-35px)}}@keyframes p{50%{opacity:.25}}</style>
+</defs>
+<rect width="1200" height="150" rx="24" fill="#050716"/>
+<g class="wave"><path d="M-40 80 C160 15 320 145 520 78 S880 15 1240 80" fill="none" stroke="url(#g)" stroke-width="3" filter="url(#glow)"/><path d="M-40 105 C180 45 350 155 560 105 S930 50 1240 110" fill="none" stroke="url(#g)" stroke-opacity=".3"/></g>
+<circle cx="290" cy="67" r="4" fill="#00F5FF" class="dot"/><circle cx="815" cy="60" r="4" fill="#FF2BD6" class="dot"/>
+<text x="600" y="82" text-anchor="middle" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">LET'S ENGINEER THE FUTURE</text>
+<text x="600" y="112" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="14">innovation · intelligence · impact</text>
+</svg>
